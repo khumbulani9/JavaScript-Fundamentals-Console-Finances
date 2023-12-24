@@ -11,12 +11,10 @@
 
 ## Description of the assignment
 
-JavaScript Fundamentals is a challenge which faces a real world situation in which our newly attained JavaScript skills during the last couple of days, to create a fiancial analysis tool. The skills may be beneficial and could come in handy, with helping solve the task presented. 
-To help understand and identify what is required, we have been provided with a financial dataset in the starter/index.js file.
+JavaScript Fundamentals is a challenge which faces a real world situation, in which our newly attained JavaScript skills during the last couple of days, will help contribute in creating a fiancial analysis tool. The skills are highly beneficial and could prove to be very important, with helping solve the task presented. 
+To help understand and identify what is required from the assignment, which is associated with creacting code and analyzing the financial records of a comppany from a financial dataset. 
 
 ## Acceptance criteria
-
-
 
 The following requirements are deemed acceptable once i have created a new GitHub repo called Console-Finances. Then, cloned it to the computer.
 
