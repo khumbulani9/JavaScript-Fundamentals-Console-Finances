@@ -44,14 +44,14 @@ The greatest decrease in losses (date and difference in the amounts) over the en
 
 The analysis can be accessed from this link: https://russkinori.github.io/Console-Finances/. Please see below for instructions and screenshots.
 
-Once the webpage has opened, right click anywhere within its body (the white area) and select **Inspect** (usually the the last option of the pop up menu) as seen below.
+Once the webpage is open in the web broweser, right click anywhere and find (the white area) and select input (usually the the last option of the pop up menu) as seen below.
 <br>
 ![](.![webpage-inspect](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/4394e94d-83da-4b27-9ba8-bdd855c9b2b6)
 
 <br>
 <br>
 
-This may also be achieved by pressing the combination of keys **ctrl + shift + j** or pressing **f12** (along with fn if required). After which the screen will then be separated into two. If the inspection area appears too small, click on the **>>** symbol to reveal more options then select console to proceed. See screenshot below.
+This can also be achieved by pressing the combination of keys ctrl + shift + j or pressing f12 (along with fn if required). The screen will then be separated into two and if the inspection area appears too small, click on the symbol to reveal more options then select console to proceed. This can be seen from the screenshot below.
 <br>
 ![](./![webpage-console](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/df7ebb03-58d8-47fe-b92a-54fa94c9a9f9)
 <br>
