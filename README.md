@@ -4,7 +4,6 @@
 
 * [description of the assignment](#description-of-the-assignment)
 * [acceptance criteria](#acceptance-criteria)
-* [usage](#usage)
 * [link url to deployed app on github](#link-url-to-deployed-app-on-github)
 * [website Page screenshot link url to github repository](#website-page-screenshot-link-url-to-github-repository)
 * [contact Link url to github repository](#contact-link-url-to-github-repository)
