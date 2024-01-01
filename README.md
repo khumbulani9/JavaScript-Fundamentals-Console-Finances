@@ -40,7 +40,7 @@ The greatest increase in profits (date and difference in the amounts) over the e
 
 The greatest decrease in losses (date and difference in the amounts) over the entire period.
 
-## Usage
+## Website Page screenshot link URL to GitHub repository
 
 The analysis can be accessed from this link: https://russkinori.github.io/Console-Finances/. Please see below for instructions and screenshots.
 
@@ -69,8 +69,6 @@ Use the horizantal resize arrow to expand the console area as needed. Screenshot
 
 
 ## Link URL to deployed app on GitHub
-
-## Website Page screenshot link URL to GitHub repository
 
 ## Contact-link URL to GitHub repository
 
