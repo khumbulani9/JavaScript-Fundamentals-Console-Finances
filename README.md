@@ -45,8 +45,7 @@ The analysis can be accessed from this link: https://russkinori.github.io/Consol
 
 Once the webpage is open in the web broweser, right click anywhere and find (the white area) and select input (usually the the last option of the pop up menu) as seen below.
 <br>
-![](.![webpage-inspect](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/4394e94d-83da-4b27-9ba8-bdd855c9b2b6)
-
+![](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/edit/main/README.md).
 <br>
 <br>
 
