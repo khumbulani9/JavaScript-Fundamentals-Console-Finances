@@ -71,6 +71,13 @@ Use the horizantal resize arrow to expand the console area as needed. Screenshot
 
 ## Contact-link URL to GitHub repository
 
+## Licence
+
+Licenced under the [MIT](/LICENSE) license.
+
+*© Khumbulani Juabne*
+
+
 [https://github.com/khumbulani9/UX-and-Advanced-CSS-Bootstrap-portfolio]
 
 ## Reference
