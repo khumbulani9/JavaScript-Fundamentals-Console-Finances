@@ -1,72 +1,80 @@
-# Unit 4 Challenge: Console Finances
+# JavaScript-Fundamentals-Console-Finances
 
-## Overview
+## **_Table of contents_** 
 
-In this challenge, you'll be using the concepts you've learned to complete the required activity. This activity presents a real-world situation in which your newfound JavaScript skills will come in handy. You are tasked with creating code for analyzing the financial records of a company. You have been provided with a financial dataset in the `starter/index.js` file.
+* [description of the assignment](#description-of-the-assignment)
+* [acceptance criteria](#acceptance-criteria)
+* [link url to deployed app on github](#link-url-to-deployed-app-on-github)
+* [website Page screenshot link url to github repository](#website-page-screenshot-link-url-to-github-repository)
+* [contact Link url to github repository](#contact-link-url-to-github-repository)
+* [Reference](#Reference)
 
-## Instructions
+## Description of the assignment
 
-1. Create a new GitHub repo called `Console-Finances`. Then, clone it to your computer.
+JavaScript Fundamentals is a challenge which faces a real world situation, in which our newly attained JavaScript skills during the last couple of days, will help contribute in creating a fiancial analysis tool. The skills are highly beneficial and could prove to be very important, with helping solve the task presented. 
 
-2. Copy the starter files in your local git repository.
+To help understand and identify what is required from the assignment, which is associated with creacting code and analyzing the financial records of a comppany from a financial dataset. 
 
-You have been given a dataset composed of arrays with two fields, Date and Profit/Losses.
+## Acceptance criteria
+
+The following requirements are deemed acceptable once i have created a new GitHub repo called Console-Finances. Then, cloned it to the computer.
+
+Copy the starter files into your local git repository.
+
+You have been given a dataset composed of arrays with two fields: Date and Profit/Losses.
 
 Your task is to write JavaScript code that analyzes the records to calculate each of the following:
 
-* The total number of months included in the dataset.
+The total number of months included in the dataset.
 
-* The net total amount of Profit/Losses over the entire period.
+The net total amount of Profit/Losses over the entire period.
 
-* The average of the **changes** in Profit/Losses over the entire period.
-  * You will need to track what the total change in Profit/Losses are from month to month and then find the average.
-  * (`Total/(Number of months - 1)`)
+The average of the changes in Profit/Losses over the entire period.
 
-* The greatest increase in Profit/Losses (date and amount) over the entire period.
+You will need to track what the total change in profits is from month to month and then find the average.
 
-* The greatest decrease in Profit/Losses (date and amount) over the entire period.
+(Total/(Number of months - 1))
 
-When you open your code in the browser your resulting analysis should look similar to the following:
+The greatest increase in profits (date and difference in the amounts) over the entire period.
 
-  ```text
-  Financial Analysis 
-  ----------------
-  Total Months: 86
-  Total: $38382578
-  Average Change: -2315.12
-  Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
-  Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
-  ```
+The greatest decrease in losses (date and difference in the amounts) over the entire period.
 
-Your final code should print the analysis to the console.
+## Website Page screenshot link URL to GitHub repository
 
-The analysis can be accessed from this link: https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances.git. Please see below for instructions and screenshots.
+The analysis can be accessed from this link: https://russkinori.github.io/Console-Finances/. Please see below for instructions and screenshots.
 
-* You will need to do some research on your own for this project!
+Once the webpage is open in the web broweser, right click anywhere and find (the white area) and select input (usually the the last option of the pop up menu) as seen below.
+<br>
+![](.![webpage-inspect](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/4394e94d-83da-4b27-9ba8-bdd855c9b2b6)
 
-* Remember, in order to combine strings and variables in the console you will need to use **concatenation**.
+<br>
+<br>
 
-* How do you only print to the nearest 100th in JavaScript?
+This can also be achieved by pressing the combination of keys ctrl + shift + j or pressing f12 (along with fn if required). The screen will then be separated into two and if the inspection area appears too small, click on the symbol to reveal more options then select console to proceed. This can be seen from the screenshot below.
+<br>
+![](./![webpage-console](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/df7ebb03-58d8-47fe-b92a-54fa94c9a9f9)
+<br>
 
-## Grading Requirements
+The results of the financial analysis will then be displayed as follows:
+<br>
 
-This homework is graded based on the following criteria:
+![](./![analysis](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/866ef2b4-5385-44bc-9762-c50a518e93bf)
 
-### Technical Acceptance Criteria: 40%
+Use the horizantal resize arrow to expand the console area as needed. Screenshot below.
+<br>
+
+![](.![webpage-analysis](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/82db038e-bf86-4e07-97b2-b6cd42ae1734)
+
+## Link URL to deployed app on GitHub
 
 ## Contact-link URL to GitHub repository
-https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances 
 
-### Deployment: 32%
+## Licence
 
-* Application deployed at live URL.
+Licenced under the [MIT](/LICENSE) license.
 
-* Application loads with no errors.
+*© Khumbulani Jubane*
 
-* Application GitHub URL submitted.
+[https://github.com/khumbulani9/UX-and-Advanced-CSS-Bootstrap-portfolio]
 
 ## Reference
-https://bootcampspot.instructure.com/courses/5651/modules 
-
-https://github.com/milla56/Lubomila-s-Console-Finances?tab=readme-ov-file
-
