@@ -43,13 +43,13 @@ The greatest decrease in losses (date and difference in the amounts) over the en
 
 Once the webpage is open in the web broweser, right click anywhere and find (the white area) and select input (usually the the last option of the pop up menu) as seen below.
 <br>
-![](.![webpage-inspect](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/4394e94d-83da-4b27-9ba8-bdd855c9b2b6)
+(.![webpage-inspect](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/4394e94d-83da-4b27-9ba8-bdd855c9b2b6)
 
 <br>
 <br>
 This can also be achieved by pressing the combination of keys ctrl + shift + j or pressing f12 (along with fn if required). The screen will then be separated into two and if the inspection area appears too small, click on the symbol to reveal more options then select console to proceed. This can be seen from the screenshot below.
 <br>
-![](./![webpage-console](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/df7ebb03-58d8-47fe-b92a-54fa94c9a9f9)
+[webpage-console](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/df7ebb03-58d8-47fe-b92a-54fa94c9a9f9)
 <br>
 
 The results of the financial analysis will then be displayed as follows:
@@ -60,11 +60,15 @@ The results of the financial analysis will then be displayed as follows:
 Use the horizantal resize arrow to expand the console area as needed. Screenshot below.
 <br>
 
-![](.![webpage-analysis](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/82db038e-bf86-4e07-97b2-b6cd42ae1734)
+(.![webpage-analysis](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/82db038e-bf86-4e07-97b2-b6cd42ae1734)
 
 ## Link URL to deployed app on GitHub
 
+
+
 ## Contact-link URL to GitHub repository
+
+https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/edit/main/README.md
 
 ## Licence
 
@@ -75,3 +79,6 @@ Licenced under the [MIT](/LICENSE) license.
 [https://github.com/khumbulani9/UX-and-Advanced-CSS-Bootstrap-portfolio]
 
 ## Reference
+https://bootcampspot.instructure.com/courses/5651/external_tools/249
+
+https://github.com/milla56/Lubomila-s-Console-Finances?tab=readme-ov-file
