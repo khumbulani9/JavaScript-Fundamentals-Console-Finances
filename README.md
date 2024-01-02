@@ -41,7 +41,7 @@ The greatest decrease in losses (date and difference in the amounts) over the en
 
 ## Website Page screenshot link URL to GitHub repository
 
-The analysis can be accessed from this link: https://russkinori.github.io/Console-Finances/. Please see below for instructions and screenshots.
+The analysis can be accessed from this link: https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances.git. Please see below for instructions and screenshots.
 
 Once the webpage is open in the web broweser, right click anywhere and find (the white area) and select input (usually the the last option of the pop up menu) as seen below.
 <br>
