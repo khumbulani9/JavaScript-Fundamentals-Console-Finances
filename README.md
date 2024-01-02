@@ -63,7 +63,9 @@ Use the horizantal resize arrow to expand the console area as needed. Screenshot
 (.![webpage-analysis](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/82db038e-bf86-4e07-97b2-b6cd42ae1734)
 
 ## Link URL to deployed app on GitHub
+http://127.0.0.1:5502/JavaScript-Fundamentals-Console-Finances/starter/index.html#
 
+https://khumbulani9.github.io/JavaScript-Fundamentals-Console-Finances/
 
 
 ## Contact-link URL to GitHub repository
