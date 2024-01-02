@@ -40,7 +40,7 @@ When you open your code in the browser your resulting analysis should look simil
 
 Your final code should print the analysis to the console.
 
-**Hints:**
+The analysis can be accessed from this link: https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances.git. Please see below for instructions and screenshots.
 
 * You will need to do some research on your own for this project!
 
@@ -54,7 +54,8 @@ This homework is graded based on the following criteria:
 
 ### Technical Acceptance Criteria: 40%
 
-* Satisfies all of the above acceptance criteria.
+## Contact-link URL to GitHub repository
+https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances 
 
 ### Deployment: 32%
 
@@ -64,34 +65,8 @@ This homework is graded based on the following criteria:
 
 * Application GitHub URL submitted.
 
-* GitHub repository contains application code.
+## Reference
+https://bootcampspot.instructure.com/courses/5651/modules 
 
-### Repository Quality: 23%
+https://github.com/milla56/Lubomila-s-Console-Finances?tab=readme-ov-file
 
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for variable naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-### Application Quality: 5%
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
----
-
-## Copyright
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
