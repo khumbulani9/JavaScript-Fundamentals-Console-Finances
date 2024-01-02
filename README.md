@@ -60,12 +60,7 @@ The results of the financial analysis will then be displayed as follows:
 
 ![](./![analysis](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/866ef2b4-5385-44bc-9762-c50a518e93bf)
 
-Use the horizantal resize arrow to expand the console area as needed. Screenshot below.
-<br>
-
 ![](.![webpage-analysis](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/82db038e-bf86-4e07-97b2-b6cd42ae1734)
-
-
 
 ## Link URL to deployed app on GitHub
 
@@ -76,7 +71,6 @@ Use the horizantal resize arrow to expand the console area as needed. Screenshot
 Licenced under the [MIT](/LICENSE) license.
 
 *© Khumbulani Jubane*
-
 
 [https://github.com/khumbulani9/UX-and-Advanced-CSS-Bootstrap-portfolio]
 
