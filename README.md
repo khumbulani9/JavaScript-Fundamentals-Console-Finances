@@ -1,76 +1,97 @@
-# JavaScript-Fundamentals-Console-Finances
+# Unit 4 Challenge: Console Finances
 
-## **_Table of contents_** 
+## Overview
 
-* [description of the assignment](#description-of-the-assignment)
-* [acceptance criteria](#acceptance-criteria)
-* [link url to deployed app on github](#link-url-to-deployed-app-on-github)
-* [website Page screenshot link url to github repository](#website-page-screenshot-link-url-to-github-repository)
-* [contact Link url to github repository](#contact-link-url-to-github-repository)
-* [Reference](#Reference)
+In this challenge, you'll be using the concepts you've learned to complete the required activity. This activity presents a real-world situation in which your newfound JavaScript skills will come in handy. You are tasked with creating code for analyzing the financial records of a company. You have been provided with a financial dataset in the `starter/index.js` file.
 
-## Description of the assignment
+## Instructions
 
-JavaScript Fundamentals is a challenge which faces a real world situation, in which our newly attained JavaScript skills during the last couple of days, will help contribute in creating a fiancial analysis tool. The skills are highly beneficial and could prove to be very important, with helping solve the task presented. 
+1. Create a new GitHub repo called `Console-Finances`. Then, clone it to your computer.
 
-To help understand and identify what is required from the assignment, which is associated with creacting code and analyzing the financial records of a comppany from a financial dataset. 
+2. Copy the starter files in your local git repository.
 
-## Acceptance criteria
-
-The following requirements are deemed acceptable once i have created a new GitHub repo called Console-Finances. Then, cloned it to the computer.
-
-Copy the starter files into your local git repository.
-
-You have been given a dataset composed of arrays with two fields: Date and Profit/Losses.
+You have been given a dataset composed of arrays with two fields, Date and Profit/Losses.
 
 Your task is to write JavaScript code that analyzes the records to calculate each of the following:
 
-The total number of months included in the dataset.
+* The total number of months included in the dataset.
 
-The net total amount of Profit/Losses over the entire period.
+* The net total amount of Profit/Losses over the entire period.
 
-The average of the changes in Profit/Losses over the entire period.
+* The average of the **changes** in Profit/Losses over the entire period.
+  * You will need to track what the total change in Profit/Losses are from month to month and then find the average.
+  * (`Total/(Number of months - 1)`)
 
-You will need to track what the total change in profits is from month to month and then find the average.
+* The greatest increase in Profit/Losses (date and amount) over the entire period.
 
-(Total/(Number of months - 1))
+* The greatest decrease in Profit/Losses (date and amount) over the entire period.
 
-The greatest increase in profits (date and difference in the amounts) over the entire period.
+When you open your code in the browser your resulting analysis should look similar to the following:
 
-The greatest decrease in losses (date and difference in the amounts) over the entire period.
+  ```text
+  Financial Analysis 
+  ----------------
+  Total Months: 86
+  Total: $38382578
+  Average Change: -2315.12
+  Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
+  Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
+  ```
 
-## Website Page screenshot link URL to GitHub repository
+Your final code should print the analysis to the console.
 
-The analysis can be accessed from this link: https://russkinori.github.io/Console-Finances/. Please see below for instructions and screenshots.
+**Hints:**
 
-Once the webpage is open in the web broweser, right click anywhere and find (the white area) and select input (usually the the last option of the pop up menu) as seen below.
-<br>
-![](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/edit/main/README.md).
-<br>
-<br>
+* You will need to do some research on your own for this project!
 
-This can also be achieved by pressing the combination of keys ctrl + shift + j or pressing f12 (along with fn if required). The screen will then be separated into two and if the inspection area appears too small, click on the symbol to reveal more options then select console to proceed. This can be seen from the screenshot below.
-<br>
-![](./![webpage-console](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/df7ebb03-58d8-47fe-b92a-54fa94c9a9f9)
-<br>
+* Remember, in order to combine strings and variables in the console you will need to use **concatenation**.
 
-The results of the financial analysis will then be displayed as follows:
-<br>
+* How do you only print to the nearest 100th in JavaScript?
 
-![](./![analysis](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/866ef2b4-5385-44bc-9762-c50a518e93bf)
+## Grading Requirements
 
-![](.![webpage-analysis](https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances/assets/146132836/82db038e-bf86-4e07-97b2-b6cd42ae1734)
+This homework is graded based on the following criteria:
 
-## Link URL to deployed app on GitHub
+### Technical Acceptance Criteria: 40%
 
-## Contact-link URL to GitHub repository
+* Satisfies all of the above acceptance criteria.
 
-## Licence
+### Deployment: 32%
 
-Licenced under the [MIT](/LICENSE) license.
+* Application deployed at live URL.
 
-*© Khumbulani Jubane*
+* Application loads with no errors.
 
-[https://github.com/khumbulani9/UX-and-Advanced-CSS-Bootstrap-portfolio]
+* Application GitHub URL submitted.
 
-## Reference
+* GitHub repository contains application code.
+
+### Repository Quality: 23%
+
+* Repository has a unique name.
+
+* Repository follows best practices for file structure and naming conventions.
+
+* Repository follows best practices for variable naming conventions, indentation, quality comments, etc.
+
+* Repository contains multiple descriptive commit messages.
+
+* Repository contains quality README file with description, screenshot, and link to deployed application.
+
+### Application Quality: 5%
+
+* Application resembles the mock-up functionality provided in the Challenge instructions.
+
+## Review
+
+You are required to submit BOTH of the following for review:
+
+* The URL of the deployed application.
+
+* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+
+---
+
+## Copyright
+
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
