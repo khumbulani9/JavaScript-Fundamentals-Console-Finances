@@ -75,7 +75,7 @@ Use the horizantal resize arrow to expand the console area as needed. Screenshot
 
 Licenced under the [MIT](/LICENSE) license.
 
-*© Khumbulani Juabne*
+*© Khumbulani Jubane*
 
 
 [https://github.com/khumbulani9/UX-and-Advanced-CSS-Bootstrap-portfolio]
