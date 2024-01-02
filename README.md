@@ -64,6 +64,7 @@ The results of the financial analysis will then be displayed as follows:
 ## Link URL to deployed app on GitHub
 
 ## Contact-link URL to GitHub repository
+https://github.com/khumbulani9/JavaScript-Fundamentals-Console-Finances 
 
 ## Licence
 
@@ -74,3 +75,6 @@ Licenced under the [MIT](/LICENSE) license.
 [https://github.com/khumbulani9/UX-and-Advanced-CSS-Bootstrap-portfolio]
 
 ## Reference
+https://bootcampspot.instructure.com/courses/5651/modules 
+https://github.com/milla56/Lubomila-s-Console-Finances?tab=readme-ov-file
+
