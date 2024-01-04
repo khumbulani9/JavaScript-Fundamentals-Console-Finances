@@ -85,6 +85,7 @@ var finances = [
   ['Dec-2016', 60988],
   ['Jan-2017', 138230],
   ['Feb-2017', 671099],
+
 ];
 console.log("Financial Analysis") //Display heading 
 console.log("-------------------------")
@@ -142,5 +143,3 @@ console.log("The Net Total Profit/Loss: " + netTotalProfitLoss); //Display resul
   greatestLossDate = dateReversed[41]; //Create a variable and retrieve the date at the same index from the dateReversed array
 
   console.log("Greatest Decrease Profits: " + greatestLossDate + " ($" + greatestLossAmount + ")" ) // Display the greatest decrease in losses over the time period
-
-
